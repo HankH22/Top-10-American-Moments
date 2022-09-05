@@ -1,0 +1,28 @@
+body {
+    background-color: lightgray;
+    color: navy;
+}
+h1 {
+    color: black;
+    font-family: monospace;
+    font-size: 70px;
+    margin: 0px;
+}
+p {
+    color: black;
+    font-family: monospace;
+}
+img {
+    border: 10px solid black;
+    width: 70%;
+    margin-left: 0px;
+}
+li {
+    font-size: 40px;
+    margin: 40px;
+}
+p {
+    color: black;
+    font-family: arial;
+    font-size: 25px;
+}
